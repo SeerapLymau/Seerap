@@ -1,0 +1,6 @@
+{
+  "name": "Pertubuhan Cancer Survivors Malaysia",
+  "description": "Laman web rasmi NGO Cancer Survivors Malaysia (CSM) untuk kesedaran kanser, kisah inspirasi pejuang, sokongan komuniti, saringan kesihatan awal, dan tabung kutipan dana bantuan ubat-ubatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
